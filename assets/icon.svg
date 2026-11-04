@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
-  <!-- 17/October: Recreated the submitted green circle and white dollar mark as a scalable composer icon. -->
-  <circle cx="64" cy="64" r="64" fill="#12871F"/>
-  <path d="M78 35c-5-5-12-8-20-7-10 1-16 8-15 16 1 9 8 13 19 17 12 4 20 9 20 20 0 10-9 18-21 19-9 1-18-2-25-9" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M64 22v84" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
-</svg>
