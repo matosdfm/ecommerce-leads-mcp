@@ -3,13 +3,19 @@
   "name": "com.getecommerceleads/ecommerce-leads",
   "title": "Ecommerce Leads",
   "description": "Ecommerce store metrics by domain: revenue, ad spend, traffic. Log in to search 600k+ stores.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://getecommerceleads.com/docs",
+  "repository": {
+    "url": "https://github.com/matosdfm/ecommerce-leads-mcp",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://getecommerceleads.com/assets/el_logo_big.png",
       "mimeType": "image/png",
-      "sizes": ["512x512"]
+      "sizes": [
+        "512x512"
+      ]
     }
   ],
   "remotes": [

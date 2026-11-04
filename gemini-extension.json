@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-leads",
+  "version": "1.1.1",
+  "description": "Ecommerce store metrics by domain: revenue, ad spend, traffic, buying signals. Log in to search 600k+ stores and reveal contacts.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "ecommerce-leads": {
+      "httpUrl": "https://getecommerceleads.com/api/mcp"
+    }
+  }
+}

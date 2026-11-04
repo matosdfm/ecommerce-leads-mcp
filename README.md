@@ -42,6 +42,14 @@ claude mcp add --transport http ecommerce-leads https://getecommerceleads.com/ap
 }
 ```
 
+### Gemini CLI
+
+```bash
+gemini extensions install https://github.com/matosdfm/ecommerce-leads-mcp
+```
+
+To use the account tools, run `/mcp auth ecommerce-leads` in Gemini CLI and log in.
+
 ### Clients that only support stdio
 
 ```bash
