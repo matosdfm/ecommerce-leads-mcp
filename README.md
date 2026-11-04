@@ -96,3 +96,9 @@ All tools declare `readOnlyHint`, `destructiveHint` and `openWorldHint` annotati
 - Privacy policy: https://getecommerceleads.com/privacy-policy
 - Terms: https://getecommerceleads.com/terms-of-service
 - Support: diogo@getecommerceleads.com
+
+## License
+
+The [MIT license](LICENSE) covers the files in this repository only. Use of the hosted
+service at `https://getecommerceleads.com/api/mcp` is subject to the
+[Terms of Service](https://getecommerceleads.com/terms-of-service).
