@@ -2,6 +2,8 @@
 
 # Ecommerce Leads MCP Server
 
+[![Ecommerce Leads MCP Server on AI Agents Listing](https://aiagentslisting.com/ecommerce-leads-mcp-server/badge.svg?claim=30d490f8c6d7738e5943994120fa745c)](https://aiagentslisting.com/mcp/ecommerce-leads-mcp-server)
+
 Remote MCP server for ecommerce store data. Look up any online store by domain and get
 estimated revenue, marketing budget, traffic, Google and Meta ad spend, ad counts, a
 Conversion Rate Score, buying signals, and social and ad-library links.
